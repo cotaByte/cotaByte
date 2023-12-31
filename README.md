@@ -15,7 +15,7 @@ I'm Rafa, a Full Stack Developer from Spain 🇪🇦.
 
 - 🔭 I’m working as a Software Engineer, developing frontend and backend code.
 - 🌱 Learning new coding skills to become better developer.
-- ⚡ In my free time I solve problems on LeetCode and develope some personal projects using new Technologies (also do some excercise 😀).  
+- ⚡ In my free time, I solve problems on LeetCode and develop some personal projects using new technologies (I also do some exercises 😀).
 - 📫 Contact me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/cotaByte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cotaByte)
 
 ---
