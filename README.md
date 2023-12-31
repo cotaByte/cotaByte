@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi there! 🫡 </h1>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻: &nbsp;About Me :
 
 I'm Rafa, a Full Stack Developer from Spain 🇪🇦.
 
