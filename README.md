@@ -53,4 +53,4 @@ I'm Rafa, a Full Stack Developer from Spain 🇪🇦.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cotaByte&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cotaByte&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cotaByte&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cotaByte&layout=compact&theme=light)
